@@ -1,0 +1,23 @@
+body
+{
+    margin:auto;
+    background-color: hsl(220, 15%, 55%);
+}
+#qr
+{
+    color: hsl(0, 0%, 100%);
+}
+#top_text
+{
+    color: hsl(218, 44%, 22%);
+    font-family: 'Outfit', sans-serif;
+}
+.attribution 
+{ 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a 
+{ 
+    color: hsl(228, 45%, 44%); 
+}
