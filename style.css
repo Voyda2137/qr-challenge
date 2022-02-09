@@ -11,6 +11,12 @@ body
 {
     color: hsl(218, 44%, 22%);
     font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+}
+#bottom_text
+{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
 }
 .attribution 
 { 
